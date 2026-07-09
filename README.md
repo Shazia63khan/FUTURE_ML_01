@@ -1,32 +1,38 @@
 # FUTURE_ML_01 - Sales & Demand Forecasting for Businesses
 
-## Objective
-This project aims to forecast future sales using historical business data with Machine Learning techniques.
+## Overview
+
+This project focuses on predicting future sales by analyzing historical business data using Machine Learning techniques. The model helps identify sales patterns and supports data-driven business decisions.
 
 ## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
 
-## Features
-- Data Cleaning & Preprocessing
-- Time-based Feature Engineering
-- Monthly Sales Trend Analysis
-- Sales Forecasting using Linear Regression
-- Model Evaluation (MAE, RMSE, R² Score)
-- Business Insights
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+
+## Key Features
+
+* Data Cleaning and Preprocessing
+* Feature Engineering for Time-based Data
+* Monthly Sales Trend Analysis
+* Sales Prediction using Linear Regression
+* Model Performance Evaluation (MAE, RMSE, R² Score)
+* Business Insights and Visualization
 
 ## Project Workflow
-1. Load and clean the dataset
-2. Analyze monthly sales trends
-3. Train a Linear Regression model
-4. Forecast future sales
-5. Visualize results
+
+1. Import and preprocess the dataset
+2. Explore and analyze sales trends
+3. Build a Linear Regression model
+4. Predict future sales values
+5. Evaluate the model and visualize the results
 
 ## Dataset
+
 Sample Superstore Dataset
 
 ## Author
-**Shazia Bano**
+
+**Mansi Gaur**
