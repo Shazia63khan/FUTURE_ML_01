@@ -35,4 +35,4 @@ Sample Superstore Dataset
 
 ## Author
 
-**Mansi Gaur**
+**Shazia Bano**
